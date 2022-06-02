@@ -1,6 +1,3 @@
-# Portfolio
-My Programming Portfolio!
-
 # **About Me**
 - Currently a Student
 - Specializing in
