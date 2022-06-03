@@ -8,7 +8,8 @@
 # Past Work
 
 ## **Flutter Bird**
-[![Watch the video](https://user-images.githubusercontent.com/104479537/171909512-9a590800-18f0-46ae-b1fb-6573d69b4ea1.png)
+
+[![Watch the video]](https://user-images.githubusercontent.com/104479537/171909733-42c5e265-0a29-4953-b02e-0b326062caa2.png)
 - Type: Individual
 - May 2022 - Current
 - Specifications:
