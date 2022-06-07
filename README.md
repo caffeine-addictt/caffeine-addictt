@@ -3,7 +3,7 @@
 - Specializing in
   - Python
   - Lua
-- 5+ Years Experience
+- 4+ Years Experience
 
 # Past Work
 
