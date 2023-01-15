@@ -3,7 +3,7 @@
 - Specializing in
   - Python
   - Lua
-- 4+ Years Experience
+- 2018-now
 
 # Portfolio
-- <a href="https://i-like-coffee.github.io/Portfolio/" target="_blank"> Link </a>
+- <a href="https://junxiang-portfolio.netlify.app/#about" target="_blank"> Link </a>
