@@ -93,7 +93,7 @@
 
 ## Top Open Source -
 [![Personal Projects](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=personal-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/personal-projects)
-[![AI Projects](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=picture-recognition-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/picture-recognition-ai)
+[![To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=FastAPI-ToDoApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/FastAPI-ToDoApp)
 [![My Readme](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=caffeine-addictt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/caffeine-addictt)
 [![Finances Made Easy](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=Finances-Made-Easy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/Finances-Made-Easy)
 
