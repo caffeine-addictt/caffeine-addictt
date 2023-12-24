@@ -1,4 +1,4 @@
-<!-- Pre-header -->
+<!-- Header -->
 <h2 align="center">
   Welcome~
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -6,12 +6,14 @@
   <br>
 
   <a href="https://github.com/caffeine-addictt">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Programming%20Since%202016;Always%20learning%20new%20things&center=true&width=380&height=45" />
   </a>
 </h2>
 
 
 
+
+<!-- Intro  -->
 <a href="https://komarev.com/ghpvc/?username=caffeine-addictt">
   <img align="right" src="https://komarev.com/ghpvc/?username=caffeine-addictt&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -19,8 +21,6 @@
 <br>
 
 
-
-<!-- Intro  -->
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
@@ -28,134 +28,102 @@
   </samp>
 </h3>
 
+
 <p align="center"> 
   <samp>
     <a href="https://portfolio.nekochida.com">「 My Portfolio 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Singapore</b> 」
+    「 I am a Full-Stack Developer from <b>Singapore</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://portfolio.nekochida.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="caffeine-addictt" />
- </a>
- <a href="https://www.linkedin.com/in/ngjx" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="caffeine-addictt"/>
- </a> 
- <a href="https://www.instagram.com/impurecaffeine/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="caffeine-addictt" />
- </a> 
+  <a href="https://github.com/caffeine-addictt?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/caffeine-addictt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/caffeine-addictt?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/caffeine-addictt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
 </p>
 
 <br />
 
 
 
+
 <!-- About Section -->
- # About me
- 
-<p>
-  <img align="right" width="280" src="assets/cat.gif" alt="Coding gif" />
-  
-  ☕ &emsp; Need a cup of coffee a day<br/><br/>
-  ✌️ &emsp; Enjoy programming and learning <br/><br/>
-  📚 &emsp; Y1 DIT Student @ <a href="https://www.nyp.edu.sg" target="_blank">Nanyang Polytechnic</a> <br/><br/>
-  📧 &emsp; Reach me anytime: junxiangng63@gmail.com<br/><br/>
-  💬 &emsp; Ask me about anything [here](https://github.com/caffeine-addictt/caffeine-addictt/issues)
-</p>
+# About me
+I'm a self-taught full-stack developer who loves programming a tad too much.<br />
+My projects range from software to libraries and websites, utilising new features to learn and improve as a developer.
+I aim to tackle real-world issues with code and hope to inspire aspiring developers.
 
-<br/>
-<br/>
-<br/>
+---
 
 
 
-## Use To Code
 
-<div align="center">
+### Languages
 
-  <!-- Languages -->
-  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-  ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-  ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  <!-- Frameworks -->
-  ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<br />
 
-  <!-- Databases -->
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  <!-- Tools -->
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+
+### Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+<br />
+
+<!-- Cute cat -->
+### Cat
+&nbsp;&nbsp;╱|&nbsp;、<br />
+(˚ˎ&nbsp;。7&nbsp;&nbsp;<br />
+&nbsp;|、˜〵          <br />
+じ&nbsp;しˍ,)ノ<br />
+
+<br />
+
+
+
+
+#
+
+<br />
+
+### Stats
+<div align="left" style="display:flex;gap:10px;">
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=caffeine-addictt&show_icons=true&theme=material-palenight" /></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeine-addictt&layout=donut&theme=material-palenight" /></a>
 </div>
 
-<br/>
-
-
-
-## Open Source Projects
-
-<div align="center">
-
-  [![Personal Projects](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=personal-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/personal-projects)
-  [![Thread](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=thread&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/thread)
-  [![My Readme](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=caffeine-addictt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/caffeine-addictt)
-  [![Finances Made Easy](https://github-readme-stats.vercel.app/api/pin/?username=caffeine-addictt&repo=Finances-Made-Easy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/caffeine-addictt/Finances-Made-Easy)
-
-</div>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/caffeine-addictt?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-
-
-<p align="center">
-  <a href="">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=caffeine-addictt&theme=radical&border=7F3FBF&background=0D1117" alt="My GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caffeine-addictt&theme=radical" alt="My GitHub Contributions"/>
-  </a>
-</p>
-
-<a> 
-  <a href=""><img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=caffeine-addictt&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href=""><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=caffeine-addictt&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=caffeine-addictt&custom_title=Jun%20Xiang's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
