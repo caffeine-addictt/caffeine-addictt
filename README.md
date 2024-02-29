@@ -118,7 +118,7 @@ I aim to tackle real-world issues with code and hope to inspire aspiring develop
 
 ### Stats
 <div align="left" style="display:flex;gap:10px;">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=caffeine-addictt&show_icons=true&theme=material-palenight" /></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=caffeine-addictt&show_icons=true&theme=material-palenight&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show=reviews,prs_merged" /></a>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeine-addictt&layout=donut&theme=material-palenight" /></a>
 </div>
 
