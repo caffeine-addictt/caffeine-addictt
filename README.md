@@ -8,17 +8,14 @@ I am a full-stack developer from Singapore looking to create performant and amaz
 * I use arch, **BTW**
 * I use NeoVim, **BTW**
 
-<div style="display:flex;gap:10px;margin-top:50px">
+<div style="display:flex;margin-top:50px">
   ⭐
 
-  ~
-
   <!-- Cute cat -->
-  &nbsp;&nbsp;╱|&nbsp;、<br />
-  (˚ˎ&nbsp;。7&nbsp;&nbsp;<br />
-  &nbsp;|、˜〵          <br />
-  じ&nbsp;しˍ,)ノ<br />
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╱|&nbsp;、<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(˚ˎ&nbsp;。7&nbsp;&nbsp;<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|、˜〵          <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;じ&nbsp;しˍ,)ノ<br />
 </div>
 
 #
