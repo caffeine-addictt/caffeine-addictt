@@ -1,6 +1,20 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="28"> Hi, I'm Jun Xiang
 
-I am a full-stack developer from Singapore looking to create performant and amazing software.
+I am a back-end developer from Singapore looking to create performant and amazing software.
+
+![](https://img.shields.io/badge/rust-780000?logo=rust&logoColor=white)
+![](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white)
+![](https://img.shields.io/badge/python-4584b6?logo=python&logoColor=white)
+![](https://img.shields.io/badge/docker-1D63ED?logo=docker&logoColor=white)
+![](https://img.shields.io/badge/lua-000080?logo=lua&logoColor=white)
+![](https://img.shields.io/badge/archlinux-1793d1?logo=archlinux&logoColor=white)
+![](https://img.shields.io/badge/neovim-000022?logo=neovim&logoColor=green)
+![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+![](https://img.shields.io/badge/javascript-aabb00?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
 
 #### Fun facts
 
