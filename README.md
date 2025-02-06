@@ -1,6 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="28"> Hi, I'm Jun Xiang
 
-I am a back-end developer from Singapore looking to create performant and amazing software.
+I am a experienced Go & Rust Backend Enginerr from Singapore.
+I make tooling for developers.
 
 ![](https://img.shields.io/badge/rust-780000?logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white)
