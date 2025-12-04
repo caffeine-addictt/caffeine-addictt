@@ -37,4 +37,4 @@ I make tooling for developers.
 
 <a href=""><img src="https://caffeine-addictt-readme-stats.vercel.app/api?username=caffeine-addictt&show_icons=true&theme=material-palenight&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show=reviews,prs_merged" alt="" /></a>
 
-<sup>GNU/Linux #1</sup>
+<sup>Linux #1</sup>
